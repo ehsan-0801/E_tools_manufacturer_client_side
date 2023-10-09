@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "628b1b2130299afebe2a4484",
+        "Name": "Screwdrivers",
+        "Description": "htmlFor every screw type there is a screwdriver. htmlFor most tasks, a basic selection of screwdrivers.Combination driver sets are available that use a common handle and a selection of driver bits.\r\n",
+        "price": 500,
+        "image": "https://i.ibb.co/hFQ4PKg/Screwdrivers.png",
+        "QuantityAvailable": 1000,
+        "QuantityMinimum": 80
+    },
+    {
+        "_id": "628b1b21e9bad78c545b35d7",
+        "Name": "Pliers",
+        "Description": "The pliers available from a hardware store or other locations are acceptable htmlFor many tasks, but they are not always ideal htmlFor working with electronics.The large jaws of the common pliers are good htmlFor gripping stubborn bolts or holding a stiff spring while maneuvering it into position.\r\n",
+        "price": 1000,
+        "image": "https://i.ibb.co/z80Ffc9/Pliers.png",
+        "QuantityAvailable": 1500,
+        "QuantityMinimum": 150
+    },
+    {
+        "_id": "628b1b21cc75430e57c4f898",
+        "Name": "Wire Cutters",
+        "Description": "As with pliers, the typical wire cutters from the hardware store are suitable htmlFor cutting wires htmlFor home wiring and automotive work, but they are not designed htmlFor electronics.\r\n",
+        "price": 1500,
+        "image": "https://i.ibb.co/QHrYLVz/Wire-Cutter.png",
+        "QuantityAvailable": 2500,
+        "QuantityMinimum": 100
+    },
+    {
+        "_id": "628b1b2107c375e9c5c020f7",
+        "Name": "Wire Strippers",
+        "Description": "Wire Stripper and Cutter cuts and strips 8-20 AWG solid and 10-22 AWG stranded wire with relax Compound action stripping: grip and strip via single-action squeezing motion Precision machined stripping holes easily remove insulation without damaging the wire Removes up to 1-Inch (25 mm) in length of the insulation layer (jacket layer) in a single step Tension loaded wire-grip gently holds the cable while retaining cable geometry Cast alloy chassis with heavy-duty Ecoat finish htmlFor corrosion resistance and durability.\r\n",
+        "price": 1200,
+        "image": "https://i.ibb.co/m5vNgRj/Wire-Strippers.png",
+        "QuantityAvailable": 3000,
+        "QuantityMinimum": 100
+    },
+    {
+        "_id": "628b1b21a0b3af1761f2232b",
+        "Name": "Crimping Tools",
+        "Description": "Crimping tool, which allows easy cutting, stripping and crimping of connectors and cables.Multipurpose tool that offers the possibility of carrying several tools in one.It has 3 dies: one htmlFor the htmlFormat of RJ45 and RJ50 connectors (8P8C and 10P10C), another htmlFor the htmlFormat of RJ11 (6P4C) and RJ12 (6P6C) connectors and a third htmlFor RJ9 (4P4C) connectors.\r\n",
+        "price": 1350,
+        "image": "https://i.ibb.co/SJ4Xkf8/Crimping-Tools.png",
+        "QuantityAvailable": 4000,
+        "QuantityMinimum": 200
+    },
+    {
+        "_id": "628b1b212c581a62987bd7c0",
+        "Name": "Clamps",
+        "Description": "Clamps are designed to exert pressure to hold something, whether that is a single piece wire,an electronic component, or two pieces of metal. Clamps may be locked or screwed into position, and they retain the pressure on whatever they're gripping until released. \r\n",
+        "price": 1050,
+        "image": "https://i.ibb.co/t8NSqW6/Clamps.png",
+        "QuantityAvailable": 2500,
+        "QuantityMinimum": 100
+    },
+    {
+        "_id": "628b1b2156deaf325a73ad5f",
+        "Name": "Vises",
+        "Description": "Clamp htmlForce: 4, 050 Lbs. And Torque Rating: 95 Ft-Lb Jaw Width: 5. 5 inches X Jaw Opening: 5 inches X Throat Depth: 3. 25inches Pipe Capacity: 1/8 inches X 2. 5inches Diameter, Pipe Jaws Are Cast-In Place 360-Degree Interlocking (Geared) Swivel Base With (2) Lock Downs Adjusts The Direction Of The Jaws htmlFor Proper Placement\r\n",
+        "price": 2000,
+        "image": "https://i.ibb.co/26sVGZD/Vises.png",
+        "QuantityAvailable": 2000,
+        "QuantityMinimum": 100
+    },
+    {
+        "_id": "628b1b2129c2903e0b9dcbdc",
+        "Name": "Rotary Tools",
+        "Description": "A good rotary tool is one of the most versatile tools you can own. There are many types available, ranging from the very cheap and somewhat flimsy tosubstantial tools suitable htmlFor production-line use. Some models come with a selection of speeds, and some have continuously variable speed control.\r\n",
+        "price": 1150,
+        "image": "https://i.ibb.co/fd8J8Q6/Rotary-Tools.png",
+        "QuantityAvailable": 1500,
+        "QuantityMinimum": 50
+    },
+    {
+        "_id": "628b1b2142beb516bc6c4c0c",
+        "Name": "Grinders",
+        "Description": "A small bench grinder is a handy thing to have. Grinders in general are useful tools to have and they can save you a lot of time when you need to shape the tip of a screwdriver, take the corner off a bracket so it will fit, or clean up the edge of a piece of aluminum or clear acrylic.\r\n",
+        "price": 1250,
+        "image": "https://i.ibb.co/gSRJdHt/Grinders.png",
+        "QuantityAvailable": 2000,
+        "QuantityMinimum": 100
+    },
+    {
+        "_id": "628b1b21f6ca71178d4bb193",
+        "Name": "Drills",
+        "Description": "Electric hand drills are useful htmlFor a lot of things, but drilling a precisehole typically isn’t one of those things. A small drill press is essential htmlFordrilling holes htmlFor screws, switches, LED indicators, or connectors. While youmight be able to do a passable job with a common electric hand drill, the chances of slipping, creating an off-axis hole, or accidentally making thehole too large because of tool vibrations are great. If you want aclean, precise hole, use a drill press.\r\n",
+        "price": 1850,
+        "image": "https://i.ibb.co/74W1Sn6/Drills.png",
+        "QuantityAvailable": 3477,
+        "QuantityMinimum": 38
+    }
+]
